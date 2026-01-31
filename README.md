@@ -29,8 +29,7 @@ HB-Immersive-Portfolio/
     │   └── style.css
     └── js/
         └── script.js
-        
-      # 🌍 **HB IMMERSIVE** – Holograms in Augmented Reality
+        # 🌍 **HB IMMERSIVE** – Holograms in Augmented Reality
 **[Download on Google Play](https://play.google.com/store/apps/details?id=com.hb.immersive.pro)**
 
 **Turn your smartphone into an interactive 3D hologram projector** – **no headset, no expensive hardware**.
